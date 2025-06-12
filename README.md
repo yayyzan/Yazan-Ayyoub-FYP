@@ -37,11 +37,14 @@ The key goal is to evaluate the effectiveness of combining multiple data sources
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/yayyzan/Yazan-Ayyoub-FYP.git
 cd Yazan-Ayyoub-FYP
 ```
+
+### Run the script
+Run `Inference_Demo.ipynb` book on local CPU or Colab to reproduce results. 
 
 ## 📌 Notes on Data
 
@@ -50,7 +53,6 @@ cd Yazan-Ayyoub-FYP
 - The `inference_eval.csv` file contains **processed and scaled data** with only the **target scaler** provided.
 - Input scalers and **dates have been excluded** to ensure irreversibility.
 
----
 
 ## 🧪 Reproducibility
 
